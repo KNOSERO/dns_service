@@ -3,7 +3,7 @@ Pi-hole central DNS for the local network
 
 [![Build Status](https://jenkins.ravcube.com/buildStatus/icon?job=PR%20Public/PR%20DNS%20Service&style=plastic)](https://jenkins.ravcube.com/job/PR%20Public/job/PR%20DNS%20Service/lastBuild/pipeline-overview/)
 [![License](https://img.shields.io/github/license/KNOSERO/dns_service?style=plastic)](LICENSE)
-[![Docker](https://img.shields.io/badge/Docker-Image-blue?logo=docker&style=plastic)](https://hub.docker.com/_/hello-world)
+[![Docker](https://img.shields.io/badge/Docker-Image-blue?logo=docker&style=plastic)](https://hub.docker.com/r/pihole/pihole)
 
 -----
 
